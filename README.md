@@ -15,4 +15,7 @@ Github Desktop : https://desktop.github.com/
 #Link Video Materi : 
 <br/>
 <br/>
-open file index.html
+Open index.html to view file
+<br/>
+<br/>
+Untuk permissions contributors silahkan chat di grup stackIT dengan memberi tahu username Githubnya, thanks
