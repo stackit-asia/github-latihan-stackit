@@ -10,8 +10,9 @@ Github Desktop : https://desktop.github.com/
 
 </hr>
 
-#Online Link this repo : 
+#Online Link this repo : https://stackit-asia.github.io/github-latihan-stackit/ 
 
-Link Materi : 
+#Link Video Materi : 
+<br/>
 <br/>
 open file index.html
